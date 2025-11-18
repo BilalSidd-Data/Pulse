@@ -53,9 +53,6 @@ Features
 - **UIKit Integration**: Seamless integration where needed
 - **Custom Modifiers**: Reusable glassmorphism and liquid glass effects
 
-## 📱 Screenshots
-
-*Add your screenshots here to showcase the beautiful UI*
 
 ## 🚀 Getting Started
 
